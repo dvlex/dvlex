@@ -35,13 +35,11 @@ Here are some ideas to get you started:
 
 <details><summary>Who am I?</summary>
   <h2>Who am I?</h2>
-👋 Hi, I’m Alex Castillo, 
+👋 Hi, I’m Alex Castillo,
 
-I know how to work, learning fast new tools and paradigms collaboratively, using all the experience I gained through life experiences, and of course coding every day at Microverse, with a high amount of other developers around the world. Complying with the deadlines.
+I am a passionate Full-Stack Software Engineer with a knack for quickly learning new tools and paradigms. I spent over a year at Microverse, where I collaborated with developers worldwide, honing my skills in JavaScript, HTML, CSS, Ruby on Rails, and various frameworks. This experience taught me the importance of adaptability and continuous learning, which I’ve carried into my professional journey.
 
-Just started the Miccroverse program, and I noticed the importance of learning and adapting to new languages and developing paradigms, and that allowed me to create a lot of capstone projects in Javascript, HTML, CSS, and some frameworks related to that.
-
-With my professional experience, even if it’s not related to software development, I learned to lead collaborative teams, to achieve goals, while keeping constant learning to myself and all the team's members.
+Following my time at Microverse, I joined IcaliaLabs, where I have been working for the past 2.5 years. Here, I’ve been developing high-quality web applications and leading collaborative teams using tools like Docker, Compose, Bash scripts, and Google Cloud to meet project deadlines and achieve our goals. My diverse experiences have equipped me with the ability to thrive in dynamic environments and foster a culture of constant growth and innovation.
 </details>
 
 <details><summary>Skills</summary>
