@@ -1,20 +1,6 @@
 ## Hi there 👋
 I'm a seasoned Full Stack Web Developer focusing on building high-quality web applications using Ruby on Rails, JavaScript, React, and Python. With over three years of experience, I deeply understand both backend and frontend development, specializing in creating robust and scalable applications. My recent work at IcaliaLabs involved developing applications using Python and FastAPI, integrating with the LLM API, and working with Docker, Google Cloud, and Azure for deploying and managing cloud-based applications. I’m passionate about clean code, elegant software architecture, and leveraging cutting-edge technologies to solve complex problems. I'm always eager to learn and grow, contributing to projects that positively impact me.
 
-<!--
-**dvlex/dvlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Alex Castillo (Full-Stack web developer)
 <table>
   <tr >
@@ -48,7 +34,9 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
     <tr>
       <td><h3>Front-End</h3></td>
       <td>
-        <p>JavaScritp</p>
+        <p>Tailwind</p>
+        <p>JavaScript</p>
+        <p>TypeScript</p>
         <p>React</p>
         <p>Redux</p>
         <p>Html5</p>
@@ -58,10 +46,11 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
     <tr>
       <td><h3>Back-End</h3></td>
       <td>
+        <p>Python</p>
         <p>Ruby</p>
         <p>Ruby on Rails</p>
         <p>MySQL</p>
-        <p>MSSQL</p>
+        <p>PostgreSQL</p>
         <p>SQL Management Studio</p>
         <p>C#</p>
         <p>ASP.Net core (MVC, API, Razor pages)</p>
@@ -75,6 +64,8 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
         <p>Heroku</p>
         <p>Mobile/Responsive Development</p>
         <p>Chrome Dev Tools</p>
+        <p>OOP</p>
+        <p>Design Patterns</p>
       </td>
     </tr>
     <tr>
@@ -90,8 +81,9 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
 
 <details><summary>What jobs/goals I'm prospecting?</summary>
 <h2>What jobs/goals that I'm prospecting?</h2>
-<p>👀 I’m a full-stack interested in developing with HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet, and front-end with Angular.</p>
-<p>🌱 I’m currently at Microverse Program, developing every day in a collaborative environment 5 days a week, to reach knowledge about collaborative developing teams, with people all around the world.</p>
+<p>👀 I’m a full-stack interested in developing with React, Python, HTML, CSS, JS, Ruby, and RoR, however, I love to develop APIs with dotnet and python, and front-end with Angular.</p>
+<p>🌱 I’m currently at IcaliaLabs, but I'm looking for new challenges and opportunities to grow as a developer.</p>
+<p>💞 I’m looking to collaborate on projects that make a positive impact on society, and that can allow me to grow as a developer, and as a person.</p>
 </details>
 
 <details><summary>Professional Experience</summary>
@@ -104,8 +96,21 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
       <th>Activities</th>
     </tr>
     <tr>
+      <td>IcaliaLabs</td>
+      <td>March 2022 - Current</td>
+      <td>Full-time remote</td>
+      <td>
+        <p>Developing high-quality web applications using Python and FastAPI, integrating with the LLM API.</p>
+        <p>Working with Docker, Google Cloud, and Azure for deploying and managing cloud-based applications.</p>
+        <p>Leading collaborative teams to meet project deadlines and achieve our goals.</p>
+        <p>Developing and maintaining web applications using Ruby on Rails, JavaScript, React.</p>
+        <p>Developing AI powered applications using Python, Flask, and FastAPI.</p>
+        <p>Deploying and managing cloud-based applications using Docker, Google Cloud, and Azure.</p>
+      </td>
+    </tr>
+    <tr>
       <td>Microverse</td>
-      <td>August 2021 - Current</td>
+      <td>August 2021 - March 2022</td>
       <td>Bootcamp remote</td>
       <td>
         <p>Mentored junior web developers, providing technical support through code reviews.</p>
@@ -147,7 +152,7 @@ Following my time at Microverse, I joined IcaliaLabs, where I have been working 
     </tr>
     <tr>
       <td>Microverse</td>
-      <td>August 2021 - Current</td>
+      <td>August 2021 - March 2022</td>
       <td>Remote Full Stack Web Development Program</td>
       <td>
       <p>Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.</p>
