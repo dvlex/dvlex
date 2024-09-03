@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a seasoned Full Stack Web Developer focusing on building high-quality web applications using Ruby on Rails, JavaScript, React, and Python. With over three years of experience, I deeply understand both backend and frontend development, specializing in creating robust and scalable applications. My recent work at IcaliaLabs involved developing applications using Python and FastAPI, integrating with the LLM API, and working with Docker, Google Cloud, and Azure for deploying and managing cloud-based applications. I’m passionate about clean code, elegant software architecture, and leveraging cutting-edge technologies to solve complex problems. I'm always eager to learn and grow, contributing to projects that positively impact me.
 
 <!--
 **dvlex/dvlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
