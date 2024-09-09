@@ -1,0 +1,29 @@
+# SKILLS
+
+- Problem Solving
+- Coding
+- OOP
+- Technical Analysis
+- Team Collaboration
+- JavaScript
+- HTML
+- CSS + SCSS
+- React
+- Redux
+- Ruby
+- Rails
+- Hotwired
+- MySQL
+- PostgreSQL
+- Python
+- FastAPI
+- Shell Scripting 
+- Linux
+- CI/CD Pipelines
+- Docker
+- Docker Compose
+- GitHub Actions 
+- GPTAPI+OAI
+- Azure cloud
+- Google Cloud
+- Automated testing pipeline
